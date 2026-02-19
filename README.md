@@ -56,7 +56,8 @@ node server.js
 
 ## 🔐 Environment Variables (.env)
 
-PORT=5000 MONGO_URI=your_mongodb_connection_string
+PORT=5000 
+MONGO_URI=your_mongodb_connection_string
 
 IMAGEKIT_PUBLIC_KEY=your_public_key
 IMAGEKIT_PRIVATE_KEY=your_private_key
